@@ -1,0 +1,20 @@
+{
+    "token": "",
+    "prefix": "x$",
+    "remote-users": [],
+    "autoreply": {
+        "messages": [
+            "https://github.com/24Polo",
+            "https://discord.gg/u6SH3MKeU"
+        ],
+        "channels": [],
+        "users": []
+    },
+    "afk": {
+        "enabled": false,
+        "message": "I am currently AFK. I will respond as soon as possible!"
+    },
+    "copycat": {
+        "users": []
+    }
+}
